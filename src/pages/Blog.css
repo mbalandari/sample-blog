@@ -1,0 +1,21 @@
+.table {
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 3rem 0 3rem;
+}
+
+.title {
+    flex-grow: 4;
+    background-color: rgb(156, 201, 130);
+}
+
+.details {
+    flex-grow: 1;
+    background-color: rgb(196, 102, 130);
+}
+
+.content {
+    padding: 3rem;
+}
