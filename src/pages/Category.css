@@ -1,0 +1,9 @@
+.category {
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(201, 146, 146);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
