@@ -1,10 +1,11 @@
 import React from 'react'
 import CategoryItem from '../components/CategoryItem'
 import Hero from '../components/Hero'
+import './Home.css'
 
 const Home = () => {
     return (
-        <div>
+        <div className='home'>
             <Hero />
             <CategoryItem />
             <CategoryItem />
