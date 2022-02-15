@@ -5,14 +5,30 @@ import BlogCard from '../components/BlogCard'
 const Category = () => {
     return (
         <div className='category'>
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
-            <BlogCard />
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
+            <div className="card">
+                <BlogCard />
+            </div>
         </div>
     )
 }
