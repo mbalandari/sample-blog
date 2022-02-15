@@ -1,4 +1,9 @@
-.home {
-    height: 100%;
-    width: 100%;
+
+
+.categories {
+    background-color: rgb(151, 223, 175);
+    height: 45vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
