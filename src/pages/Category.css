@@ -1,8 +1,8 @@
 .category {
     width: 100%;
-    background-color: rgb(201, 146, 146);
     display: flex;
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
+    margin-top: 3rem;
 }
